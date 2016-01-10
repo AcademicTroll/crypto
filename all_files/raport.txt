@@ -1,0 +1,23 @@
+Raport - Kryptografia Lista 6
+1. Lista dostępnych sieci: w pliku lista.png
+2. Lista stron odwiedzonych przez użytkowników sieci: list_of_sites.txt, http-load.txt, http-requests.txt
+3. Lista protokołów: TLSv1.2, TLSv1, TCP, SSDP, POP, OCSP, HTTP + lokalne
+   Lista serwisów, do których można zdobyć dostęp na podstawie tego skanu:
+   e.kul.pl
+   napisy24.pl
+4. Mapa lokalizacji: w oddzielnym pliku
+5. Lista urządzeń: 
+   "Tp-LinkT_a1:c5:ba"
+   "SamsungE_60:e2:45"
+   "Tp-LinkT_a1:c5:bb"
+   "Sagemcom_40:0a:fa"
+   "Sagemcom_40:0a:fb"
+   "IntelCor_32:47:73"
+   "IntelCor_12:ed:00"
+   "HtcCorpo_29:53:83"
+   "Mro-TekL_ff:ff:ff"
+   "LiteonTe_c8:a5:d9"
+   "MarconiC_7a:a1:c5"
+   "Unitec_fa:04:00"
+   "Blackber_ff:ff:ff"
+

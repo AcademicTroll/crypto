@@ -1,0 +1,11 @@
+1. Lokalizacja celu, lokalne ip (np. tcpdump, ettercap)
+2. ARP Poisoning (np. ettercap, cain)
+3. Przechwytywanie pakietow, ciastka (np. wireshark: http.cookies)
+4. Znalezienie identyfikatora sesji
+5. Zamiana identifikatora w ciastkach swojej przegladarki
+
+
+Przykladowy pakiet:
+__utma=178362608.1738080578.1412245859.1447143774.1452463134.9; __utmb=178362608.1.10.1452463134; __utmc=178362608; __utmt=1; __utmz=178362608.1452463134.9.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); s4el=7sd41ge7lqt4hokpq68q60ceu5; __utma=231176837.364346780.1381140948.1426284006.1430895608.18; _ga=GA1.2.364346780.1381140948; _gat=1
+
+
