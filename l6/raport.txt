@@ -1,3 +1,0 @@
-Raport - Kryptografia Lista 6
-1. Lista dostępnych sieci: w pliku lista.png
-2. Lista stron odwiedzonych przez użytkowników sieci: list_of_sites.txt
